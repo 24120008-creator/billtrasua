@@ -253,7 +253,10 @@ DANH SÁCH MÓN:
             f" = {subtotal:,.0f} VNĐ"
         )
 
-    invoice += f"""
+invoice += f"""
+🧋 {ten_mon}
+💰 {gia:,}đ
+"""
 
 Mức đường: {sugar}
 Mức đá: {ice}
