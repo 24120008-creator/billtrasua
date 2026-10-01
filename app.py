@@ -484,4 +484,5 @@ if question:
             "🥤 Quán có 3 size: "
             "S, M và L. "
             "Size M cộng 5.000 VNĐ, "
-            "size L cộng 10.000
+            "size L cộng 10.000"
+        )
